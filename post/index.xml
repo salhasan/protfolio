@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sadiq Alhasan</title>
-    <link>https://salhasan.github.io/sadiq_protfolio/post/</link>
+    <link>https://salhasan.github.io/protfolio/post/</link>
     <description>Recent content in Projects on Sadiq Alhasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://salhasan.github.io/sadiq_protfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://salhasan.github.io/protfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBMS for Lung Cancer Clinical Trials</title>
-      <link>https://salhasan.github.io/sadiq_protfolio/post/project_1/</link>
+      <link>https://salhasan.github.io/protfolio/post/project_1/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://salhasan.github.io/sadiq_protfolio/post/project_1/</guid>
+      <guid>https://salhasan.github.io/protfolio/post/project_1/</guid>
       <description>Created a relational database system with dummy data to act as a source of information regarding lung cancer clinical trials.
   The database contains detailed information about patients and single nucleotide polymorphisms (SNPs) associated with lung cancer.
   The database contains the different treatments undergoing clinical trials and the genes targeted by them, if any.
@@ -21,28 +21,28 @@
     
     <item>
       <title>RNA-Seq Differential Expression Analysis</title>
-      <link>https://salhasan.github.io/sadiq_protfolio/post/project_3/</link>
+      <link>https://salhasan.github.io/protfolio/post/project_3/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://salhasan.github.io/sadiq_protfolio/post/project_3/</guid>
+      <guid>https://salhasan.github.io/protfolio/post/project_3/</guid>
       <description>View the workflow Utilized publicly available RNA-Seq data from recount2 to perform a differential expression analysis on potential gene therapy for sickle cell disease. Found significant differences of expression between the groups, including several off-target genes. The data set consists of 16 samples where all are of cell line HUDEP2 (Human Umbilical Cord Blood-Derived Erythroid Progenitor). 8 samples have wild-type genotype. 8 with knockout &amp;ldquo;ZBTB7A gene. ZBTB7A gene produces an LRF transcription factor that represses fetal β-like globin expression in adult red blood cells.</description>
     </item>
     
     <item>
       <title>Visualization Package with ggplot2</title>
-      <link>https://salhasan.github.io/sadiq_protfolio/post/project_4/</link>
+      <link>https://salhasan.github.io/protfolio/post/project_4/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://salhasan.github.io/sadiq_protfolio/post/project_4/</guid>
+      <guid>https://salhasan.github.io/protfolio/post/project_4/</guid>
       <description>View the package vignette Developed an R package to graphs an entire dataset with one line of code for exploratory purposes. The package is an extension of ggplo2. The package contains two functions:  scatter_plot_all(dataset, col_x = &amp;ldquo;attribute&amp;rdquo;), which creates many scatter plots with the argument attribute on the x-axis of every generated plot and one other attribute on the y-axis. hex_plot_all(dataset, col_x = &amp;ldquo;attribute&amp;rdquo;), which creates many hex plots with the argument attribute on the x-axis of every generated plot and one other attribute on the y-axis.</description>
     </item>
     
     <item>
       <title>Machine Learning Classification of Breast Tumors</title>
-      <link>https://salhasan.github.io/sadiq_protfolio/post/project_2/</link>
+      <link>https://salhasan.github.io/protfolio/post/project_2/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://salhasan.github.io/sadiq_protfolio/post/project_2/</guid>
+      <guid>https://salhasan.github.io/protfolio/post/project_2/</guid>
       <description>  View the workflow
   Utilized three ML algorithms to classify breast tumors from the Breast Cancer Wisconsin data set in RStudio.
   Build a Shiny interactive application to select the parameters and plot and summarize the results.
