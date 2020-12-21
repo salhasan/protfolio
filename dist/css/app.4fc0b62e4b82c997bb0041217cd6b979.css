@@ -5875,3 +5875,6 @@ pre {
   word-wrap: break-word;
 }
 
+#sharing {
+   display: none; 
+}
